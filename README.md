@@ -2,7 +2,7 @@
 🤞 Nice way to meet me <br/>
 <p align="left">
   <a href="https://r-o-p.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>&nbsp
   <a href="https://www.instagram.com/rrmng/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
