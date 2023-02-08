@@ -13,8 +13,8 @@
 🤞 Nice way to meet me <br/>
    <a href="https://r-o-p.tistory.com/"><img src="https://img.shields.io/badge/Blog-lightgrey?style=flat&logo=Tistory&logoColor=000000"/></a>
    <a href="https://www.instagram.com/rrmng/"><img src="https://img.shields.io/badge/Insta-ff69b4?style=flat&logo=instagram&logoColor=000000"/></a>
- <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo&logo=gmail&logoColor=000000&link=mailto:rrumang@gmail.com"/>
-
+ <img src="https://img.shields.io/badge/rrumang@gmail.com-D14836?style=flat&logo&logo=gmail&logoColor=000000&link=mailto:rrumang@gmail.com"/>
+<a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
 👋  Hi there! I'm full stack developer skilled in API, WEB.<br/>
 I have experience 2 years of Java and Angular development.<br/>
 At present, I have been interested in creating APP with Android.<br/>
