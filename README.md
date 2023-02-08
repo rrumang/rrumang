@@ -2,13 +2,13 @@
 🤞 Nice way to meet me <br/>
 <p align="left">
   <a href="https://r-o-p.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>&nbsp
   <a href="https://www.instagram.com/rrmng/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>&nbsp
   <a href="mailto:rrumang@gmail.com">
-    <img src="https://img.shields.io/badge/rrumang@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=000000&link=mailto:rrumang@gmail.com"/>
+    <img src="https://img.shields.io/badge/rrumang@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:rrumang@gmail.com"/>
   </a>&nbsp
 </p>
 
