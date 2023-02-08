@@ -10,14 +10,14 @@
 
 
 
-🤞 Nice way to meet me
+🤞 Nice way to meet me <br/>
    <a href="https://r-o-p.tistory.com/"><img src="https://img.shields.io/badge/Blog-lightgrey?style=flat&logo=Tistory&logoColor=000000"/></a> <a href="https://www.instagram.com/rrmng/"><img src="https://img.shields.io/badge/Insta-ff69b4?style=flat&logo=instagram&logoColor=000000"/></a>
 
-👋  Hi there! I'm full stack developer skilled in API, WEB.
-I have experience 2 years of Java and Angular development.
-At present, I have been interested in creating APP with Android.
+👋  Hi there! I'm full stack developer skilled in API, WEB.<br/>
+I have experience 2 years of Java and Angular development.<br/>
+At present, I have been interested in creating APP with Android.<br/>
 
-I enjoy running, basketBall. ⛹🏻‍♂️ 🏃🏻
+I enjoy running, basketBall. ⛹🏻‍♂️ 🏃🏻<br/>
 I hope to develop every amazing things. ✨
 
 
