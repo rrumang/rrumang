@@ -1,9 +1,10 @@
 
 🤞 Nice way to meet me <br/>
-
-<a href="https://r-o-p.tistory.com/"><img src="https://img.shields.io/badge/Blog-lightgrey?style=flat-square&logo=Tistory&logoColor=000000"/></a>&nbsp
-<a href="https://www.instagram.com/rrmng/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=000000"/></a>&nbsp
-<a href="mailto:rrumang@gmail.com"><img src="https://img.shields.io/badge/rrumang@gmail.com-D14836?style=flat-square&logo&logo=gmail&logoColor=000000&link=mailto:rrumang@gmail.com"/></a>
+<p align="left">
+  <a href="https://r-o-p.tistory.com/"><img src="https://img.shields.io/badge/Blog-lightgrey?style=flat-square&logo=Tistory&logoColor=000000"/></a>&nbsp
+  <a href="https://www.instagram.com/rrmng/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=000000"/>   </a>&nbsp
+  <a href="mailto:rrumang@gmail.com"><img src="https://img.shields.io/badge/rrumang@gmail.com-D14836?style=flat-                    square&logo&logo=gmail&logoColor=000000&link=mailto:rrumang@gmail.com"/></a>
+</p>
 
 
 👋  Hi there! I'm full stack developer skilled in API, WEB.🥇<br/>
